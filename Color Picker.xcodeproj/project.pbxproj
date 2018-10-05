@@ -14,6 +14,7 @@
 		79CBE1222167EB1F0084E6A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79CBE1202167EB1F0084E6A0 /* LaunchScreen.storyboard */; };
 		79CBE12D2167EB1F0084E6A0 /* Color_PickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CBE12C2167EB1F0084E6A0 /* Color_PickerTests.swift */; };
 		79CBE1382167EB1F0084E6A0 /* Color_PickerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CBE1372167EB1F0084E6A0 /* Color_PickerUITests.swift */; };
+		79CBE1462167EE3A0084E6A0 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CBE1452167EE3A0084E6A0 /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		79CBE1332167EB1F0084E6A0 /* Color PickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Color PickerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79CBE1372167EB1F0084E6A0 /* Color_PickerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_PickerUITests.swift; sourceTree = "<group>"; };
 		79CBE1392167EB1F0084E6A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79CBE1452167EE3A0084E6A0 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Colors.swift; path = "../../../../Downloads/Color-Picker-master/ColorPicker/Colors.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				79CBE11E2167EB1F0084E6A0 /* Assets.xcassets */,
 				79CBE1202167EB1F0084E6A0 /* LaunchScreen.storyboard */,
 				79CBE1232167EB1F0084E6A0 /* Info.plist */,
+				79CBE1452167EE3A0084E6A0 /* Colors.swift */,
 			);
 			path = "Color Picker";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79CBE11A2167EB1D0084E6A0 /* ViewController.swift in Sources */,
+				79CBE1462167EE3A0084E6A0 /* Colors.swift in Sources */,
 				79CBE1182167EB1D0084E6A0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
